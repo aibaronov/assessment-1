@@ -10,66 +10,70 @@
 */
 
 //CODE HERE
-
+const gitDefinition = "Git is a version control system. It allows individuals and teams to track changes to code projects, prevents bugs and loss of progress, and allows you to view the long history of a project in snapshots."
 //////////////////PROBLEM 2////////////////////
 /*
-    Create a variable called 'gitHubDefinition'.  
+    Create a variable called 'gitHubDefinition'.
     It should be a string containing your best definition of what GitHub is.
 */
 
 //CODE HERE
-
+const gitHubDefinition = "Github is a website. It allows you to take your git repositories and upload/download them. It is essentially a cloud service for your git repositories."
 //////////////////PROBLEM 3////////////////////
 /*
-    Create a variable called 'gitInitDefinition'.  
+    Create a variable called 'gitInitDefinition'.
     It should be a string containing your best definition of what 'git init' does.
 */
 
 //CODE HERE
-
+const gitInitDefinition = "git init allows you to initialize a local repository in your current folder."
 //////////////////PROBLEM 4////////////////////
 /*
-    Create a variable called 'gitCloneDefinition'.  
+    Create a variable called 'gitCloneDefinition'.
     It should be a string containing your best definition of what 'git clone' does.
 */
 
 //CODE HERE
-
+const gitCloneDefinition = "git clone allows you to copy a repository from Github and put it on your machine."
 //////////////////PROBLEM 5////////////////////
 /*
-    Create a variable called 'gitStatusDefinition'.  
+    Create a variable called 'gitStatusDefinition'.
     It should be a string containing your best definition of what 'git status' does.
 */
 
 //CODE HERE
-
+const gitStatusDefinition = "git status displays the state of the working directory and the staging area. It lets you see which changes have been staged, which havent, and which files aren't being tracked by Git."
 //////////////////PROBLEM 6////////////////////
 /*
-    Create a variable called 'gitAddDefinition'.  
+    Create a variable called 'gitAddDefinition'.
     It should be a string containing your best definition of what 'git add' does.
 
-    Create another variable called 'gitAddCode'.  
+    Create another variable called 'gitAddCode'.
     It should be a string containing the code to add all files.
 */
 
 //CODE HERE
-
+const gitAddDefinition = "git add adds the specified files to be tracked."
+const gitAddCode = "git add ."
 //////////////////PROBLEM 7////////////////////
 /*
-    Create a variable called 'gitCommitDefinition'.  
+    Create a variable called 'gitCommitDefinition'.
     It should be a string containing your best definition of what 'git commit' does.
 
-    Create a variable called 'gitCommitCode'.  
+    Create a variable called 'gitCommitCode'.
     It should be a string containing the code to commit using the message "initial commit".
 */
 
 //CODE HERE
-
+const gitCommitDefinition = "git commit creates a snapshot of files being tracked."
+const gitCommitCode = 'git commit -m "initial commit"'
 
 //////////////////PROBLEM 8////////////////////
 /*
-    Create a variable called 'gitPushDefinition'.  
+    Create a variable called 'gitPushDefinition'.
     It should be a string containing your best definition of what 'git push' does.
 */
 
+
 //CODE HERE
+const gitPushDefinition = "git push is used to upload local repository content to a remote repository."
