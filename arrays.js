@@ -23,7 +23,8 @@ const numbers = [1, 2, 3, 4, 5]
 //CODE HERE
 
 let middleNums = numbers.slice(1, 4);
-console.log(middleNums);
+console.log(`numbers: ${numbers}`)
+console.log(`middleNums: ${middleNums}`);
 //////////////////PROBLEM 4////////////////////
 /* 
   Create an empty array called 'answers'.
